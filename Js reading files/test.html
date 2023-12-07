@@ -1,0 +1,57 @@
+<head>
+    <script>
+        function Node(value) {
+            this.value = value;
+            this.next = null;
+        }
+        function LinkedList() {
+            var length = 0;
+            var head = null;
+            this.add = function (element) {
+                var node = new Node(element);
+                if (head == null) {
+                    head = node;
+                } else {
+                    var currentNode = head;
+                    while (currentNode.next) {
+                        currentNode = currentNode.next;
+                    }
+                    currentNode.next = node;
+                }
+                length++;
+            }
+            this.remove = function (element) {
+                var currentNode = head;
+                var previousNode;
+                if (currentNode.element === element) {
+                    head = currentNode.next;
+                } else {
+                    while (currentNode.element !== element) {
+                        previousNode = currentNode;
+                        currentNode = currentNode.next;
+                    }
+                    previousNode.next = currentNode.next;
+                }
+                length--;
+            }
+            this.printList  = function (element) {
+                var currentNode = element.head;
+                var elements = [];
+                while (currentNode) {
+                    elements.push(currentNode.value);
+                    currentNode = currentNode.next;
+                }
+                console.log(elements.join(" -> "));
+            }
+        }
+        var myList = new LinkedList();
+        myList.add(1);
+        myList.add(2);
+        myList.add(3);
+        printList(myList);
+        myList.remove(2);
+        printList(myList);
+    </script>
+</head>
+<body>
+</body>
