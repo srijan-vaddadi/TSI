@@ -65,6 +65,7 @@ function App() {
     fetchData();
   };
 
+
   return (
     <div className="App">
       <h2>Football Player Deets</h2>
@@ -117,3 +118,8 @@ function App() {
 }
 
 export default App;
+
+const sum = (number1: number, number2: number): number => {
+  return number1 + number2;
+};
+export default sum;
