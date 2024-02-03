@@ -1,6 +1,7 @@
 'use client'
 
 import { useRouter } from "next/navigation";
+import React from "react";
 import { SyntheticEvent, useState } from "react";
 
 interface NavbarProps {

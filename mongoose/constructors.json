@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Red bull",
+    "worldChampionships": true,
+    "wins": 113,
+    "latestStandings": 1
+  },
+  {
+    "id": 2,
+    "name": "Mercedes",
+    "worldChampionships": true,
+    "wins": 125,
+    "latestStandings": 2
+  },
+  {
+    "id": 3,
+    "name": "Ferrari",
+    "worldChampionships": true,
+    "wins": 243,
+    "latestStandings": 3
+  },
+  {
+    "id": 4,
+    "name": "Williams",
+    "worldChampionships": true,
+    "wins": 114,
+    "latestStandings": 7
+  },
+  {
+    "id": 5,
+    "name": "Mclaren",
+    "worldChampionships": true,
+    "wins": 183,
+    "latestStandings": 4
+  },
+  {
+    "id": 6,
+    "name": "Aston Martin",
+    "worldChampionships": false,
+    "wins": 0,
+    "latestStandings": 5
+  },
+  {
+    "id": 7,
+    "name": "Haas",
+    "worldChampionships": false,
+    "wins": 0,
+    "latestStandings": 10
+  },
+  {
+    "id": 8,
+    "name": "Alpine",
+    "worldChampionships": false,
+    "wins": 1,
+    "latestStandings": 6
+  }
+]
