@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Sebastian Vettel",
+    "teamName": "Red Bull",
+    "wins": 53,
+    "worldChampion": true,
+    "retired": true
+  },
+  {
+    "id": 2,
+    "name": "Lewis Hamilton",
+    "teamName": "Mercedes",
+    "wins": 103,
+    "worldChampion": true,
+    "retired": false
+  },
+  {
+    "id": 3,
+    "name": "Max Verstappen",
+    "teamName":"Red Bull",
+    "wins": 54,
+    "worldChampion": true,
+    "retired": false
+  },
+  {
+    "id": 4,
+    "name": "Charles Leclerc",
+    "teamName":"Ferrari",
+    "wins": 5,
+    "worldChampion": false,
+    "retired": false
+  },
+  {
+    "id": 5,
+    "name": "Micheal Schumacher",
+    "teamName": "Ferrari",
+    "wins": 91,
+    "worldChampion": true,
+    "retired": true
+  },
+  {
+    "id": 6,
+    "name": "Lando Norris",
+    "teamName": "Mclaren",
+    "wins": 53,
+    "worldChampion": false,
+    "retired": false
+  },
+  {
+    "id": 7,
+    "name": "Fernando Alonso",
+    "teamName": "Renault",
+    "wins": 32,
+    "worldChampion": true,
+    "retired": false
+  },
+  {
+    "id": 8,
+    "name": "Daniel Riccardo",
+    "teamName":"Red Bull",
+    "wins": 8,
+    "worldChampion": false,
+    "retired": false
+  },
+  {
+    "id": 9,
+    "name": "Valtteri Bottas",
+    "teamName": "Mercedes",
+    "wins": 10,
+    "worldChampion": false,
+    "retired": false
+  },
+  {
+    "id": 10,
+    "name": "Ayrton Senna",
+    "teamName": "Mclaren",
+    "wins": 41,
+    "worldChampion": true,
+    "retired": true
+  },
+  {
+    "id": 11,
+    "name": "Logan Sargeant",
+    "wins": 0,
+    "teamName": "Williams",
+    "worldChampion": false,
+    "retired": false
+  },
+  {
+    "id": 12,
+    "name": "Sergio Perez",
+    "teamName":"Red Bull",
+    "wins": 6,
+    "worldChampion": false,
+    "retired": false
+  },
+  {
+    "id": 13,
+    "name": "Nikita Mazepin",
+    "teamName": "Haas",
+    "wins": 0,
+    "worldChampion": false,
+    "retired": true
+  },
+  {
+    "id": 14,
+    "name": "Kimi Raikkonen",
+    "teamName": "Ferrari",
+    "wins": 21,
+    "worldChampion": true,
+    "retired": true
+  },
+  {
+    "id": 15,
+    "name": "Niko Rosberg",
+    "teamName": "Mercedes",
+    "wins": 23,
+    "worldChampion": true,
+    "retired": true
+  },
+  {
+    "id": 16,
+    "name": "Lance Stroll",
+    "teamName": "Aston Martin",
+    "wins": 0,
+    "worldChampion": false,
+    "retired": false
+  },
+  {
+    "id": 17,
+    "name": "Pierre Gasly",
+    "teamName": "Alpine",
+    "wins": 1,
+    "worldChampion": false,
+    "retired": false
+  },
+  {
+    "id": 18,
+    "name": "George Russel",
+    "teamName": "Mercedes",
+    "wins": 1,
+    "worldChampion": false,
+    "retired": false
+  },
+  {
+    "id": 19,
+    "name": "Oscar Piastri",
+    "teamName": "Mclaren",
+    "wins": 0,
+    "worldChampion": false,
+    "retired": false
+  },
+  {
+    "id": 20,
+    "name": "Carlos Sainz",
+    "teamName": "Ferrari",
+    "wins": 2,
+    "worldChampion": false,
+    "retired": false
+  }
+]
