@@ -1,2 +1,2 @@
 FROM nginx:alpine
-COPY . /usr/share/Project/TSI/Typescript/vite-project
+COPY . /usr/share/Project/TSI/Typescript/vite-project/test
